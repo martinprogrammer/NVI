@@ -1,0 +1,6 @@
+c:\users\mwollny\documents\visual studio 2013\Projects\NVI\NVI\bin\Debug\NVI.exe.config
+c:\users\mwollny\documents\visual studio 2013\Projects\NVI\NVI\bin\Debug\NVI.exe
+c:\users\mwollny\documents\visual studio 2013\Projects\NVI\NVI\bin\Debug\NVI.pdb
+c:\users\mwollny\documents\visual studio 2013\Projects\NVI\NVI\obj\Debug\NVI.csprojResolveAssemblyReference.cache
+c:\users\mwollny\documents\visual studio 2013\Projects\NVI\NVI\obj\Debug\NVI.exe
+c:\users\mwollny\documents\visual studio 2013\Projects\NVI\NVI\obj\Debug\NVI.pdb
